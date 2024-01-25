@@ -12,3 +12,5 @@ from the input using this CNN.
 no weights are imported, the RNN is trained on captions from the dataset. To
 make sure long range dependencies are better captured, LSTM is used as the RNN
 network.
+
+- The trained weights for the whole network are also included in the repo as a .h5 file.
